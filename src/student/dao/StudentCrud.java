@@ -1,4 +1,4 @@
-package sudent.dao;
+package student.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

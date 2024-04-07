@@ -4,8 +4,8 @@ package student.controller;
 import java.sql.SQLException;
 import java.util.Scanner;
 
+import student.dao.StudentCrud;
 import student.dto.Student;
-import sudent.dao.StudentCrud;
 
 public class StudentMain {
 	static Scanner scanner = new Scanner(System.in);
